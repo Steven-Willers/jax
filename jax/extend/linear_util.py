@@ -17,7 +17,7 @@
 
 from jax._src.linear_util import (
   StoreException as StoreException,
-  WrappedFun as WrappedFun,
+  WrappedFun,
   cache as cache,
   merge_linear_aux as merge_linear_aux,
   transformation as transformation,
